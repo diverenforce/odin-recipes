@@ -1,0 +1,16 @@
+* {
+    background-color:#4085cb;
+}
+h1 {
+    color:#f2ed53;
+    background-color:#9de358;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+    color:#4a4704;
+    background-color:#9de358;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
