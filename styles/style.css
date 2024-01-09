@@ -1,12 +1,22 @@
 * {
-    background-color:#4085cb;
+    margin:0;
+    padding:0;
 }
-h1 {
+
+.main-title {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin-bottom:150px;
+}
+
+
+/* h1 {
     color:#f2ed53;
     background-color:#9de358;
     text-align: center;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
+    
+} */
 
 h3 {
     color:#4a4704;
