@@ -8,21 +8,21 @@
 .main-title {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    padding: 0 350px 50px 350px;
 }
 
 
 
 .main-title {
-    padding: 0 350px 50px 350px;
     font-size: 50px;
-    margin-bottom:100px;
     background-color:#07244e;
     color:#fffefe;
 }
 
 .main-list {
     font-size: 25px;
-
+    background-color:#4a4704;
+    
 }
 
 .main-list ul li {
