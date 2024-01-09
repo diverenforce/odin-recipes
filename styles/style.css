@@ -13,9 +13,11 @@
 
 
 .main-title {
-    
+    padding: 0 350px 50px 350px;
     font-size: 50px;
-    margin-bottom:150px;
+    margin-bottom:100px;
+    background-color:#07244e;
+    color:#fffefe;
 }
 
 .main-list {
