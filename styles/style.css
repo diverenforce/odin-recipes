@@ -23,6 +23,11 @@
 
 }
 
+.main-list ul li {
+    margin: 20px;
+}
+
+
 a {
     text-decoration: none;
     color:#eb1580;
