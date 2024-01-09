@@ -4,6 +4,11 @@
     
 }
 
+/* * {
+    border:2px solid black;
+} */
+
+
 .main-list,
 .main-title {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -17,16 +22,17 @@
     font-size: 50px;
     background-color:#07244e;
     color:#fffefe;
+    margin-bottom:0;
 }
 
 .main-list {
+    padding-top:50px;
     font-size: 25px;
     background-color:#4a4704;
-    
 }
 
 .main-list ul li {
-    margin: 20px;
+    margin-bottom: 20px;
     list-style-type: none;
 }
 
@@ -44,12 +50,6 @@ a {
     
 } */
 
-h3 {
-    color:#4a4704;
-    background-color:#9de358;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 50px;
-}
 
 /* ol,ul,li {
     background-color: black;
