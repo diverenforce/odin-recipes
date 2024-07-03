@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 60px;
+    color:#c94d4dd2;
+    background-color:rgb(14, 34, 34);
+    height:120px;
+}
+
+ul {
+    text-align: center;
+    text-decoration: none;
+}
