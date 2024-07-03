@@ -8,16 +8,24 @@ h1 {
     height:120px;
 }
 
+h3 {
+    font-size:40px;
+    color:rgba(213, 227, 10, 0.888);
+    background-color: black;
+    text-align: center;
+}
+
 ul {
     text-align: center;
     list-style-type: none;
+    background-color: hsl(200, 81%, 15%);
 }
 
 li {
     padding:20px;
 }
 
-a {
+a, li {
     text-decoration: none;
     font-size: 30px;
     color:#c94d4dd2;
