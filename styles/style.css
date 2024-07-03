@@ -13,6 +13,14 @@ ul {
     list-style-type: none;
 }
 
+li {
+    padding:20px;
+}
+
 a {
     text-decoration: none;
+    font-size: 30px;
+    color:#c94d4dd2;
+    font-weight: bold;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
