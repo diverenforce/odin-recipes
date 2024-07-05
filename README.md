@@ -1,4 +1,4 @@
-# odin-recipes2
+# odin-recipes
 
 Currently as an initial beginning genesis of this project/repository, I will be 
 demonstrating the most basic and simple html syntax, skills and what I have learned
