@@ -1,3 +1,9 @@
+* {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    background-color: hsl(200, 81%, 15%);
+}
+
 h1 {
     font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -11,8 +17,16 @@ h1 {
 h3 {
     font-size:40px;
     color:rgba(213, 227, 10, 0.888);
-    background-color: black;
+    background-color:  hsl(199, 46%, 18%);
     text-align: center;
+}
+
+img {
+    margin:0 auto;
+    border: 2px solid red;
+    width: 400px; 
+    height: 300px; 
+    display: block;
 }
 
 ul {
